@@ -1,0 +1,13 @@
+{
+  "name": "2020-day-1",
+  "version": "1.0.0",
+  "description": "Starter code for solving Advent of Code 2020 day 1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
