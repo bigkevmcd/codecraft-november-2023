@@ -1,5 +1,3 @@
-from itertools import combinations
-
 def total_expenses(file: str, total: int) -> list[int]:
     """
     Find the two expenses that add up to total in a file of expenses.
